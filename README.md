@@ -1,7 +1,6 @@
-- 👋 Hola! Soy Federico y actualmente estoy en la licenciatura en Física en la Universidad Autónoma de Nuevo León (UANL) en Mexico.
-- 👀 Estoy sumamente interesado en proyectos y temas de física computacional. 
-- 🌱 Constantemente estoy aprendiendo Python y Fortran para proyectos académicos.
-- 📫 Si desea contatarme, mi correo académico es: federico.salinassmng@uanl.edu.mx
+- 👋 Hello there! I'm Federico and currently at the end of the Physics bachelor in UANL, México.
+- Physics simulation and modelling are my top interests.
+- My main programming languages are Python, Fortran and C in process.
 
 <!---
 FedeSS99/FedeSS99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
