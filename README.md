@@ -1,7 +1,7 @@
 - 👋 Hello there! I'm Federico and done Bsc. in Physics in UANL, México.
 - Data Science, physics simulation and modelling are my interests.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedess99&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedess99&layout=compact&size_weight=0.15&count_weight=0.85)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
