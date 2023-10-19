@@ -2,9 +2,15 @@
 - Data Science, physics simulation and modelling are my interests.
 
 <p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedess99&layout=compact&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
+
+<p align="center">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 </p>
 
 <!---
