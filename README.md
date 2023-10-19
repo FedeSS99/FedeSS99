@@ -1,11 +1,11 @@
 - 👋 Hello there! I'm Federico and done Bsc. in Physics in UANL, México.
 - Data Science, physics simulation and modelling are my interests.
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedess99&layout=compact&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fedess99)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 <!---
 FedeSS99/FedeSS99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
