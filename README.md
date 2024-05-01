@@ -1,4 +1,4 @@
-- 👋 Hello there! I'm Federico, Bsc. in Physics in UANL, México.
+- 👋 Hello there! I'm Federico, Graduated Bsc. in Physics in UANL, México.
 - Physics , Data Science and astrophotography are my main interests.
 - Currently on a masters in statistical computing in CIMAT.
 <p align="center">
